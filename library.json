@@ -1,5 +1,20 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-11T19:05:45.365Z",
-  "schematics": []
+  "updatedAt": "2026-03-11T19:06:12.333Z",
+  "schematics": [
+    {
+      "id": "1481351192566169791",
+      "name": "Medieval House",
+      "author": "odilan",
+      "description": "test",
+      "minecraftVersion": "1.21.11",
+      "category": "houses",
+      "previewUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/previews/medieval_house_1481351192566169791.png",
+      "downloadUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/schematics/medieval_house_1481351192566169791.schem",
+      "fileName": "medieval_house_1481351192566169791.schem",
+      "threadId": "1481351192566169791",
+      "createdAt": "2026-03-11T18:00:46.268Z",
+      "updatedAt": "2026-03-11T19:06:12.104Z"
+    }
+  ]
 }
