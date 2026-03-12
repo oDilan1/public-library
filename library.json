@@ -1,5 +1,21 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-12T15:47:51.061Z",
-  "schematics": []
+  "updatedAt": "2026-03-12T16:24:53.880Z",
+  "schematics": [
+    {
+      "id": "1481689145997787333",
+      "name": "test",
+      "author": "odilan",
+      "description": "test",
+      "minecraftVersion": "1.21.11",
+      "category": "houses",
+      "previewUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/previews/test_1481689145997787333.png",
+      "downloadUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/schematics/test_1481689145997787333.litematic",
+      "fileName": "test_1481689145997787333.litematic",
+      "fileType": "litematic",
+      "threadId": "1481689145997787333",
+      "createdAt": "2026-03-12T16:23:41.051Z",
+      "updatedAt": "2026-03-12T16:24:53.492Z"
+    }
+  ]
 }
