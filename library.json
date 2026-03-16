@@ -1,19 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-16T22:12:46.263Z",
+  "updatedAt": "2026-03-16T22:14:27.675Z",
   "schematics": [
-    {
-      "id": "1773699065194",
-      "name": "",
-      "author": "",
-      "description": "",
-      "minecraftVersion": "",
-      "category": "",
-      "previewUrl": "",
-      "downloadUrl": "",
-      "fileName": "",
-      "fileType": "schem"
-    },
     {
       "id": "1773698286928",
       "name": "🏠 Medieval Lumber House",
