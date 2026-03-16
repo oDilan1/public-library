@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-16T15:57:36.236Z",
+  "updatedAt": "2026-03-16T15:59:58.251Z",
   "schematics": [
     {
       "id": "1773676547921",
       "name": "🌿 Medieval Twin Tower Gate",
       "author": "oDilan",
-      "description": "A small detailed medieval gate with two stone towers connected by a central archway. The build uses sandstone, wooden roofs, lanterns, and vines to create a simple but atmospheric entrance perfect for castles, villages, or fantasy maps.",
+      "description": "A small medieval gate with twin towers.",
       "minecraftVersion": "1.21.x",
       "category": "Castle",
       "previewUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/previews/1773676547921.png",
