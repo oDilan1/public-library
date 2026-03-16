@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-16T22:11:04.448Z",
+  "updatedAt": "2026-03-16T22:12:46.263Z",
   "schematics": [
     {
       "id": "1773699065194",
@@ -21,7 +21,7 @@
       "description": "A cozy medieval lumber house.",
       "minecraftVersion": "1.21.x",
       "category": "Houses",
-      "previewUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/previews/medieval_lumber_house.png",
+      "previewUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/previews/1773698286928.png",
       "downloadUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/schematics/1773698286928.schem",
       "fileName": "medieval_lumber_house.schem",
       "fileType": "schem"
