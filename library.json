@@ -1,19 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-16T15:09:52.738Z",
+  "updatedAt": "2026-03-16T15:21:27.077Z",
   "schematics": [
-    {
-      "id": "1773673777047",
-      "name": "dilan",
-      "author": "d",
-      "description": "d",
-      "minecraftVersion": "d",
-      "category": "d",
-      "previewUrl": "d",
-      "downloadUrl": "d",
-      "fileName": "d",
-      "fileType": "schem"
-    },
     {
       "id": "1",
       "name": "🏠 Medieval Fantasy House",
