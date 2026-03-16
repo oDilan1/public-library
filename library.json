@@ -1,14 +1,26 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-16T15:45:15.756Z",
+  "updatedAt": "2026-03-16T15:53:20.524Z",
   "schematics": [
+    {
+      "id": "1773676312157",
+      "name": "🏠 Medieval Trader House",
+      "author": "oDilan",
+      "description": "A Simple Medieval House",
+      "minecraftVersion": "1.21.x",
+      "category": "Houses",
+      "previewUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/previews/1773676312157.png",
+      "downloadUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/schematics/1773676312157.schem",
+      "fileName": "1773676312157.schem",
+      "fileType": "schem"
+    },
     {
       "id": "1773675854639",
       "name": "🏠 Medieval Fantasy House",
       "author": "oDilan",
       "description": "A Simple Medieval Fantasy House",
-      "minecraftVersion": "1.21.1",
-      "category": "Medieval",
+      "minecraftVersion": "1.21.x",
+      "category": "Houses",
       "previewUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/previews/1773675854639.png",
       "downloadUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/schematics/1773675854639.schem",
       "fileName": "1773675854639.schem",
