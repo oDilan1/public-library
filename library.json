@@ -1,21 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-16T15:42:34.654Z",
+  "updatedAt": "2026-03-16T15:42:37.998Z",
   "schematics": [
     {
       "id": "17736757130",
-      "name": "",
-      "author": "",
-      "description": "",
-      "minecraftVersion": "",
-      "category": "",
-      "previewUrl": "",
-      "downloadUrl": "",
-      "fileName": "",
-      "fileType": "schem"
-    },
-    {
-      "id": "1773675712727",
       "name": "",
       "author": "",
       "description": "",
