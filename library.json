@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-16T21:59:35.850Z",
+  "updatedAt": "2026-03-16T22:01:37.743Z",
   "schematics": [
     {
       "id": "1773698286928",
@@ -11,7 +11,7 @@
       "category": "Houses",
       "previewUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/previews/medieval_lumber_house.png",
       "downloadUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/schematics/medieval_lumber_house.schem",
-      "fileName": "medieval_lumber_house.schem",
+      "fileName": "1773698286928.schem",
       "fileType": "schem"
     },
     {
