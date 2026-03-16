@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-16T22:02:34.594Z",
+  "updatedAt": "2026-03-16T22:04:22.726Z",
   "schematics": [
     {
       "id": "1773698286928",
@@ -22,8 +22,8 @@
       "minecraftVersion": "1.21.x",
       "category": "Houses",
       "previewUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/previews/1773677132877.png",
-      "downloadUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/schematics/1773677132877.schem",
-      "fileName": "1773677132877.schem",
+      "downloadUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/schematics/1773677132877Medieval_Manor.schem",
+      "fileName": "Medieval_Manor.schem",
       "fileType": "schem"
     },
     {
@@ -34,8 +34,8 @@
       "minecraftVersion": "1.21.x",
       "category": "Castle",
       "previewUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/previews/1773676547921.png",
-      "downloadUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/schematics/1773676547921.schem",
-      "fileName": "1773676547921.schem",
+      "downloadUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/schematics/1773676547921Tower_Gate.schem",
+      "fileName": "Tower_Gate.schem",
       "fileType": "schem"
     },
     {
@@ -46,8 +46,8 @@
       "minecraftVersion": "1.21.x",
       "category": "Houses",
       "previewUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/previews/1773676312157.png",
-      "downloadUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/schematics/1773676312157.schem",
-      "fileName": "1773676312157.schem",
+      "downloadUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/schematics/1773676312157Trader_House.schem",
+      "fileName": "Trader_House.schem",
       "fileType": "schem"
     },
     {
@@ -58,8 +58,8 @@
       "minecraftVersion": "1.21.x",
       "category": "Houses",
       "previewUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/previews/1773675854639.png",
-      "downloadUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/schematics/1773675854639.schem",
-      "fileName": "1773675854639.schem",
+      "downloadUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/schematics/1773675854639Fantasy_House.schem",
+      "fileName": "Fantasy_House.schem",
       "fileType": "schem"
     }
   ]
