@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-16T15:59:58.251Z",
+  "updatedAt": "2026-03-16T16:06:49.323Z",
   "schematics": [
+    {
+      "id": "1773677132877",
+      "name": "🏠Medieval Manor",
+      "author": "oDilan",
+      "description": "A simple medieval manor.",
+      "minecraftVersion": "1.21.x",
+      "category": "Houses",
+      "previewUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/previews/1773677132877.png",
+      "downloadUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/schematics/1773677132877.schem",
+      "fileName": "1773677132877.schem",
+      "fileType": "schem"
+    },
     {
       "id": "1773676547921",
       "name": "🌿 Medieval Twin Tower Gate",
