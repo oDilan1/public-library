@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-03-18T19:34:25.183Z",
+  "updatedAt": "2026-03-18T19:34:31.138Z",
   "author": {
     "id": "odilan",
     "name": "oDilan"
@@ -61,22 +61,6 @@
       "previewUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/public-library/previews/odilan/trader_house.png",
       "downloadUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/public-library/schematics/odilan/trader_house.schem",
       "fileName": "trader_house.schem",
-      "fileType": "schem",
-      "downloads": 0,
-      "likes": 0,
-      "rating": null
-    },
-    {
-      "id": "fantasy_house",
-      "name": "🏠 Medieval Fantasy House",
-      "author": "oDilan",
-      "authorId": "odilan",
-      "description": "A simple medieval fantasy house",
-      "minecraftVersion": "1.21.x",
-      "category": "Houses",
-      "previewUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/previews/fantasy_house.png",
-      "downloadUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/public-library/schematics/odilan/fantasy_house.schem",
-      "fileName": "fantasy_house.schem",
       "fileType": "schem",
       "downloads": 0,
       "likes": 0,
