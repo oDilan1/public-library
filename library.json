@@ -1,11 +1,23 @@
 {
   "version": 2,
-  "updatedAt": "2026-03-18T18:50:00Z",
+  "updatedAt": "2026-03-18T19:34:25.183Z",
   "author": {
     "id": "odilan",
     "name": "oDilan"
   },
   "schematics": [
+    {
+      "id": "1773862419454",
+      "name": "🏠 Medieval Fantasy House",
+      "author": "oDilan",
+      "description": "A simple medieval fantasy house",
+      "minecraftVersion": "1.21.x",
+      "category": "Houses",
+      "previewUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/previews/medieval_fantasy_house.png",
+      "downloadUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/schematics/medieval_fantasy_house.schem",
+      "fileName": "medieval_fantasy_house.schem",
+      "fileType": "schem"
+    },
     {
       "id": "medieval_manor",
       "name": "🏠 Medieval Manor",
@@ -62,7 +74,7 @@
       "description": "A simple medieval fantasy house",
       "minecraftVersion": "1.21.x",
       "category": "Houses",
-      "previewUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/preview/oDilan/medieval_fantasy.png",
+      "previewUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/previews/fantasy_house.png",
       "downloadUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/public-library/schematics/odilan/fantasy_house.schem",
       "fileName": "fantasy_house.schem",
       "fileType": "schem",
