@@ -4,8 +4,24 @@
     "id": "odilan",
     "name": "oDilan"
   },
-  "updatedAt": "2026-03-18T18:00:23.439Z",
+  "updatedAt": "2026-03-18T18:07:13.370Z",
   "schematics": [
+    {
+      "id": "1773857160474",
+      "name": "",
+      "author": "oDilan",
+      "authorId": "odilan",
+      "description": "",
+      "minecraftVersion": "",
+      "category": "",
+      "previewUrl": "",
+      "downloadUrl": "",
+      "fileName": "",
+      "fileType": "schem",
+      "downloads": 0,
+      "likes": 0,
+      "rating": null
+    },
     {
       "id": "1773856760001",
       "name": "🏠 Medieval Lumber House",
@@ -30,10 +46,13 @@
       "description": "A simple medieval manor.",
       "minecraftVersion": "1.21.x",
       "category": "Houses",
-      "previewUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/previews/1773677132877.png",
-      "downloadUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/schematics/1773677132877.schem",
-      "fileName": "Medieval_Manor.schem",
-      "fileType": "schem"
+      "previewUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/public-library/previews/odilan/medieval_manor.webp",
+      "downloadUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/public-library/schematics/odilan/medieval_manor.schem",
+      "fileName": "medieval_manor.schem",
+      "fileType": "schem",
+      "downloads": 0,
+      "likes": 0,
+      "rating": null
     },
     {
       "id": "1773676547921",
@@ -43,10 +62,13 @@
       "description": "A small medieval gate with twin towers.",
       "minecraftVersion": "1.21.x",
       "category": "Castle",
-      "previewUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/previews/1773676547921.png",
-      "downloadUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/schematics/1773676547921.schem",
-      "fileName": "Tower_Gate.schem",
-      "fileType": "schem"
+      "previewUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/public-library/previews/odilan/tower_gate.webp",
+      "downloadUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/public-library/schematics/odilan/tower_gate.schem",
+      "fileName": "tower_gate.schem",
+      "fileType": "schem",
+      "downloads": 0,
+      "likes": 0,
+      "rating": null
     },
     {
       "id": "1773676312157",
@@ -59,7 +81,10 @@
       "previewUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/previews/1773676312157.png",
       "downloadUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/schematics/1773676312157.schem",
       "fileName": "Trader_House.schem",
-      "fileType": "schem"
+      "fileType": "schem",
+      "downloads": 0,
+      "likes": 0,
+      "rating": null
     },
     {
       "id": "1773675854639",
@@ -72,7 +97,10 @@
       "previewUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/previews/1773675854639.png",
       "downloadUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/schematics/1773675854639.schem",
       "fileName": "Fantasy_House.schem",
-      "fileType": "schem"
+      "fileType": "schem",
+      "downloads": 0,
+      "likes": 0,
+      "rating": null
     }
   ]
 }
