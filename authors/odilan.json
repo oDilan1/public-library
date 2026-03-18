@@ -1,10 +1,26 @@
 {
   "author": {
     "id": "odilan",
-    "name": "oDilan"
+    "name": "test"
   },
-  "updatedAt": "2026-03-18T16:23:36.642Z",
+  "updatedAt": "2026-03-18T16:24:35.064Z",
   "schematics": [
+    {
+      "id": "1773851064392",
+      "name": "r",
+      "author": "test",
+      "authorId": "odilan",
+      "description": "r",
+      "minecraftVersion": "r",
+      "category": "r",
+      "previewUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/previews/authors/odilan/r.webp",
+      "downloadUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/schematics/authors/odilan/r.schem",
+      "fileName": "r.schem",
+      "fileType": "schem",
+      "downloads": 0,
+      "likes": 0,
+      "rating": null
+    },
     {
       "id": "1773850987005",
       "name": "🏠 Medieval Fantasy House\"",
