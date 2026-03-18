@@ -29,6 +29,12 @@
         "patreonUrl": "https://patreon.com/YOUR_PAGE",
         "requiredRoleId": "123456789012345678"
       },
+      "release": {
+        "type": "new",
+        "version": "1.0.0",
+        "updatedAt": "2026-03-18T19:42:00.173Z",
+        "changelog": "First release"
+      },
       "stats": {
         "downloads": 0,
         "likes": 0,
@@ -57,6 +63,12 @@
       "access": {
         "type": "free"
       },
+      "release": {
+        "type": "new",
+        "version": "1.0.0",
+        "updatedAt": "2026-03-18T19:42:00.173Z",
+        "changelog": "Initial release"
+      },
       "stats": {
         "downloads": 0,
         "likes": 0,
@@ -84,6 +96,12 @@
       },
       "access": {
         "type": "free"
+      },
+      "release": {
+        "type": "new",
+        "version": "1.0.0",
+        "updatedAt": "2026-03-18T19:42:00.173Z",
+        "changelog": "Initial release"
       },
       "stats": {
         "downloads": 0,
