@@ -3,23 +3,6 @@
     "id": "odilan",
     "name": "oDilan"
   },
-  "updatedAt": "2026-03-18T16:18:59.225Z",
-  "schematics": [
-    {
-      "id": "1773850477373",
-      "name": "🏠 Medieval Fantasy House",
-      "author": "oDilan",
-      "authorId": "odilan",
-      "description": "A cozy medieval lumber house.",
-      "minecraftVersion": "1.21.x",
-      "category": "Houses",
-      "previewUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/previews/authors/odilan/Medieval_Fantasy_House.png",
-      "downloadUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/schematics/authors/odilan/Medieval_Fantasy_House.schem",
-      "fileName": "Fantasy_House.schem",
-      "fileType": "schem",
-      "downloads": 0,
-      "likes": 0,
-      "rating": null
-    }
-  ]
+  "updatedAt": "2026-03-18T16:20:51.957Z",
+  "schematics": []
 }
