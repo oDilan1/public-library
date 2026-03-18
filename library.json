@@ -1,0 +1,90 @@
+{
+  "version": 2,
+  "updatedAt": "2026-03-18T18:50:00Z",
+  "author": {
+    "id": "odilan",
+    "name": "oDilan"
+  },
+  "schematics": [
+    {
+      "id": "medieval_lumber_house",
+      "name": "🏠 Medieval Lumber House",
+      "author": "oDilan",
+      "authorId": "odilan",
+      "description": "A cozy medieval lumber house",
+      "minecraftVersion": "1.21.x",
+      "category": "Houses",
+      "previewUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/public-library/previews/odilan/medieval_lumber_house.png",
+      "downloadUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/public-library/schematics/odilan/medieval_lumber_house.schem",
+      "fileName": "medieval_lumber_house.schem",
+      "fileType": "schem",
+      "downloads": 0,
+      "likes": 0,
+      "rating": null
+    },
+    {
+      "id": "medieval_manor",
+      "name": "🏠 Medieval Manor",
+      "author": "oDilan",
+      "authorId": "odilan",
+      "description": "A simple medieval manor.",
+      "minecraftVersion": "1.21.x",
+      "category": "Houses",
+      "previewUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/public-library/previews/odilan/medieval_manor.png",
+      "downloadUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/public-library/schematics/odilan/medieval_manor.schem",
+      "fileName": "medieval_manor.schem",
+      "fileType": "schem",
+      "downloads": 0,
+      "likes": 0,
+      "rating": null
+    },
+    {
+      "id": "tower_gate",
+      "name": "🌿 Medieval Twin Tower Gate",
+      "author": "oDilan",
+      "authorId": "odilan",
+      "description": "A small medieval gate with twin towers.",
+      "minecraftVersion": "1.21.x",
+      "category": "Castle",
+      "previewUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/public-library/previews/odilan/tower_gate.png",
+      "downloadUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/public-library/schematics/odilan/tower_gate.schem",
+      "fileName": "tower_gate.schem",
+      "fileType": "schem",
+      "downloads": 0,
+      "likes": 0,
+      "rating": null
+    },
+    {
+      "id": "trader_house",
+      "name": "🏠 Medieval Trader House",
+      "author": "oDilan",
+      "authorId": "odilan",
+      "description": "A simple medieval house",
+      "minecraftVersion": "1.21.x",
+      "category": "Houses",
+      "previewUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/public-library/previews/odilan/trader_house.png",
+      "downloadUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/public-library/schematics/odilan/trader_house.schem",
+      "fileName": "trader_house.schem",
+      "fileType": "schem",
+      "downloads": 0,
+      "likes": 0,
+      "rating": null
+    },
+    {
+      "id": "fantasy_house",
+      "name": "🏠 Medieval Fantasy House",
+      "author": "oDilan",
+      "authorId": "odilan",
+      "description": "A simple medieval fantasy house",
+      "minecraftVersion": "1.21.x",
+      "category": "Houses",
+      "previewUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/public-library/previews/odilan/fantasy_house.png",
+      "downloadUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/public-library/schematics/odilan/fantasy_house.schem",
+      "fileName": "fantasy_house.schem",
+      "fileType": "schem",
+      "downloads": 0,
+      "likes": 0,
+      "rating": null
+    }
+  ]
+}
