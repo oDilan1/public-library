@@ -10,13 +10,18 @@
       "id": "1773862419454",
       "name": "🏠 Medieval Fantasy House",
       "author": "oDilan",
+      "authordcid": "569169636222828555",
       "description": "A simple medieval fantasy house",
       "minecraftVersion": "1.21.x",
       "category": "Houses",
-      "previewUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/previews/medieval_fantasy_house.png",
-      "downloadUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/schematics/medieval_fantasy_house.schem",
+      "previewUrl1": "https://raw.githubusercontent.com/oDilan1/public-library/main/previews/medieval_fantasy_house.png",
+      "previewUrl2": "",
+      "previewUrl3": "",
+      "downloadschemUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/schematics/medieval_fantasy_house.schem",
       "fileName": "medieval_fantasy_house.schem",
-      "fileType": "schem"
+      "fileType": "schem",
+      "premium": "yes",
+      "premium": "(link)"
     },
     {
       "id": "medieval_manor",
