@@ -7,22 +7,6 @@
   },
   "schematics": [
     {
-      "id": "medieval_lumber_house",
-      "name": "🏠 Medieval Lumber House",
-      "author": "oDilan",
-      "authorId": "odilan",
-      "description": "A cozy medieval lumber house",
-      "minecraftVersion": "1.21.x",
-      "category": "Houses",
-      "previewUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/public-library/previews/odilan/medieval_lumber_house.png",
-      "downloadUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/public-library/schematics/odilan/medieval_lumber_house.schem",
-      "fileName": "medieval_lumber_house.schem",
-      "fileType": "schem",
-      "downloads": 0,
-      "likes": 0,
-      "rating": null
-    },
-    {
       "id": "medieval_manor",
       "name": "🏠 Medieval Manor",
       "author": "oDilan",
