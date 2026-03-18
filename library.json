@@ -62,7 +62,7 @@
       "description": "A simple medieval fantasy house",
       "minecraftVersion": "1.21.x",
       "category": "Houses",
-      "previewUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/preview/oDilan/medieval_fantasy.png"
+      "previewUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/preview/oDilan/medieval_fantasy.png",
       "downloadUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/public-library/schematics/odilan/fantasy_house.schem",
       "fileName": "fantasy_house.schem",
       "fileType": "schem",
