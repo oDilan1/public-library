@@ -1,11 +1,23 @@
 {
   "version": 2,
-  "updatedAt": "2026-03-18T19:36:53.353Z",
+  "updatedAt": "2026-03-18T19:40:29.359Z",
   "author": {
     "id": "odilan",
     "name": "oDilan"
   },
   "schematics": [
+    {
+      "id": "1773862801974",
+      "name": "d",
+      "author": "d",
+      "description": "d",
+      "minecraftVersion": "d",
+      "category": "d",
+      "previewUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/previews/d.webp",
+      "downloadUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/schematics/d.schem",
+      "fileName": "medieval_fantasy_house.schem",
+      "fileType": "schem"
+    },
     {
       "id": "1773862419454",
       "name": "🏠 Medieval Fantasy House",
