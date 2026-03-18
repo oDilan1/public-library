@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-03-18T19:34:31.138Z",
+  "updatedAt": "2026-03-18T19:36:53.353Z",
   "author": {
     "id": "odilan",
     "name": "oDilan"
@@ -45,22 +45,6 @@
       "previewUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/public-library/previews/odilan/tower_gate.png",
       "downloadUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/public-library/schematics/odilan/tower_gate.schem",
       "fileName": "tower_gate.schem",
-      "fileType": "schem",
-      "downloads": 0,
-      "likes": 0,
-      "rating": null
-    },
-    {
-      "id": "trader_house",
-      "name": "🏠 Medieval Trader House",
-      "author": "oDilan",
-      "authorId": "odilan",
-      "description": "A simple medieval house",
-      "minecraftVersion": "1.21.x",
-      "category": "Houses",
-      "previewUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/public-library/previews/odilan/trader_house.png",
-      "downloadUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/public-library/schematics/odilan/trader_house.schem",
-      "fileName": "trader_house.schem",
       "fileType": "schem",
       "downloads": 0,
       "likes": 0,
