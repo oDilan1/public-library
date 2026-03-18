@@ -4,8 +4,24 @@
     "id": "odilan",
     "name": "oDilan"
   },
-  "updatedAt": "2026-03-18T18:08:35.178Z",
+  "updatedAt": "2026-03-18T18:27:37.691Z",
   "schematics": [
+    {
+      "id": "1773858455392",
+      "name": "efdefef",
+      "author": "oDilan",
+      "authorId": "odilan",
+      "description": "",
+      "minecraftVersion": "",
+      "category": "",
+      "previewUrl": "",
+      "downloadUrl": "",
+      "fileName": "",
+      "fileType": "schem",
+      "downloads": 0,
+      "likes": 0,
+      "rating": null
+    },
     {
       "id": "1773857160474",
       "name": "",
