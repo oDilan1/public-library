@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-03-18T19:41:01.091Z",
+  "updatedAt": "2026-03-18T19:42:00.173Z",
   "author": {
     "id": "odilan",
     "name": "oDilan"
@@ -26,7 +26,7 @@
       "description": "A simple medieval manor.",
       "minecraftVersion": "1.21.x",
       "category": "Houses",
-      "previewUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/public-library/previews/odilan/medieval_manor.png",
+      "previewUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/previews/medieval_manor.webp",
       "downloadUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/public-library/schematics/odilan/medieval_manor.schem",
       "fileName": "medieval_manor.schem",
       "fileType": "schem",
