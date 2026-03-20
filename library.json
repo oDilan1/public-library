@@ -9,107 +9,38 @@
     {
       "id": "1773862419454",
       "name": "🏠 Medieval Fantasy House",
-      "author": {
-        "name": "oDilan",
-        "discordId": "569169636222828555"
-      },
+      "author": "oDilan",
       "description": "A simple medieval fantasy house",
       "minecraftVersion": "1.21.x",
       "category": "Houses",
-      "previewImages": [
-        "https://raw.githubusercontent.com/oDilan1/public-library/main/previews/medieval_fantasy_house.png"
-      ],
-      "download": {
-        "url": null,
-        "fileName": "medieval_fantasy_house.schem",
-        "fileType": "schem"
-      },
-      "access": {
-        "type": "premium",
-        "patreonUrl": "https://patreon.com/YOUR_PAGE",
-        "requiredRoleId": "123456789012345678"
-      },
-      "release": {
-        "type": "new",
-        "version": "1.0.0",
-        "updatedAt": "2026-03-18T19:42:00.173Z",
-        "changelog": "First release"
-      },
-      "stats": {
-        "downloads": 0,
-        "likes": 0,
-        "rating": null
-      }
+      "previewUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/previews/medieval_fantasy_house.png",
+      "downloadUrl": "",
+      "fileName": "medieval_fantasy_house.schem",
+      "fileType": "schem"
     },
-
-    
     {
       "id": "medieval_manor",
       "name": "🏠 Medieval Manor",
-      "author": {
-        "name": "oDilan",
-        "id": "odilan"
-      },
+      "author": "oDilan",
       "description": "A simple medieval manor.",
       "minecraftVersion": "1.21.x",
       "category": "Houses",
-      "previewImages": [
-        "https://raw.githubusercontent.com/oDilan1/public-library/main/previews/medieval_manor.webp"
-      ],
-      "download": {
-        "url": "https://raw.githubusercontent.com/oDilan1/public-library/main/public-library/schematics/odilan/medieval_manor.schem",
-        "fileName": "medieval_manor.schem",
-        "fileType": "schem"
-      },
-      "access": {
-        "type": "free"
-      },
-      "release": {
-        "type": "new",
-        "version": "1.0.0",
-        "updatedAt": "2026-03-18T19:42:00.173Z",
-        "changelog": "Initial release"
-      },
-      "stats": {
-        "downloads": 0,
-        "likes": 0,
-        "rating": null
-      }
+      "previewUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/public-library/previews/odilan/medieval_manor.webp",
+      "downloadUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/public-library/schematics/odilan/medieval_manor.schem",
+      "fileName": "medieval_manor.schem",
+      "fileType": "schem"
     },
-
-    
     {
       "id": "tower_gate",
       "name": "🌿 Medieval Twin Tower Gate",
-      "author": {
-        "name": "oDilan",
-        "id": "odilan"
-      },
+      "author": "oDilan",
       "description": "A small medieval gate with twin towers.",
       "minecraftVersion": "1.21.x",
       "category": "Castle",
-      "previewImages": [
-        "https://raw.githubusercontent.com/oDilan1/public-library/main/public-library/previews/odilan/tower_gate.png"
-      ],
-      "download": {
-        "url": "https://raw.githubusercontent.com/oDilan1/public-library/main/public-library/schematics/odilan/tower_gate.schem",
-        "fileName": "tower_gate.schem",
-        "fileType": "schem"
-      },
-      "access": {
-        "type": "free"
-      },
-      "release": {
-        "type": "new",
-        "version": "1.0.0",
-        "updatedAt": "2026-03-18T19:42:00.173Z",
-        "changelog": "Initial release"
-      },
-      "stats": {
-        "downloads": 0,
-        "likes": 0,
-        "rating": null
-      }
+      "previewUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/public-library/previews/odilan/tower_gate.png",
+      "downloadUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/public-library/schematics/odilan/tower_gate.schem",
+      "fileName": "tower_gate.schem",
+      "fileType": "schem"
     }
   ]
 }
