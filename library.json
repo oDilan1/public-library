@@ -1,23 +1,11 @@
 {
   "version": 2,
-  "updatedAt": "2026-03-22T23:08:18.112Z",
+  "updatedAt": "2026-03-22T23:08:21.910Z",
   "author": {
     "id": "odilan",
     "name": "oDilan"
   },
   "schematics": [
-    {
-      "id": "1774220875351",
-      "name": "q",
-      "author": "q",
-      "description": "q",
-      "minecraftVersion": "q",
-      "category": "q",
-      "previewUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/previews/1774220875351.png",
-      "downloadUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/schematics/q.schem",
-      "fileName": "q.schem",
-      "fileType": "schem"
-    },
     {
       "id": "1774220615766",
       "name": "i",
