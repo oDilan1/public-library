@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-03-22T23:08:03.076Z",
+  "updatedAt": "2026-03-22T23:08:18.112Z",
   "author": {
     "id": "odilan",
     "name": "oDilan"
@@ -52,18 +52,6 @@
       "previewUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/public-library/previews/odilan/medieval_manor.webp",
       "downloadUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/public-library/schematics/odilan/medieval_manor.schem",
       "fileName": "medieval_manor.schem",
-      "fileType": "schem"
-    },
-    {
-      "id": "tower_gate",
-      "name": "🌿 Medieval Twin Tower Gate",
-      "author": "oDilan",
-      "description": "A small medieval gate with twin towers.",
-      "minecraftVersion": "1.21.x",
-      "category": "Castle",
-      "previewUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/public-library/previews/odilan/tower_gate.png",
-      "downloadUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/public-library/schematics/odilan/tower_gate.schem",
-      "fileName": "tower_gate.schem",
       "fileType": "schem"
     }
   ]
