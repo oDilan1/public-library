@@ -7,6 +7,21 @@
   },
   "schematics": [
     {
+      "id": "1774225938741",
+      "name": "🏠 Medieval Fantasy House",
+      "author": "oDilan",
+      "description": "A cozy medieval fantasy house featuring warm wooden tones, detailed roofing, and charming lantern accents. Perfect for survival bases or aesthetic village builds.",
+      "minecraftVersion": "1.21.1",
+      "category": "Houses",
+      "previewUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/previews/1774225938741/1774225938741_1.png",
+      "gallery": [
+        "https://raw.githubusercontent.com/oDilan1/public-library/main/previews/1774225938741/1774225938741_2.png"
+      ],
+      "downloadUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/schematics/1774225938741/fantasy-house.schem",
+      "fileName": "fantasy-house.schem",
+      "fileType": "schem"
+    },
+    {
       "id": "1774225272904",
       "name": "👻 Spooky Medieval Manor",
       "author": "oDilan",
@@ -23,7 +38,7 @@
     },
     {
       "id": "1774225248529",
-      "name": "🏠Medieval Manor",
+      "name": "🏠 Medieval Manor",
       "author": "oDilan",
       "description": "A warm medieval house featuring a detailed stone tower, steep orange roof, and cozy wooden framing. The build includes a charming entrance, soft lighting accents, and realistic depth, making it perfect for survival bases, medieval towns, or aesthetic landscapes.",
       "minecraftVersion": "1.21.1",
