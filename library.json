@@ -15,9 +15,9 @@
       "category": "a",
       "previewUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/previews/s.png",
       "gallery": [
+        "https://raw.githubusercontent.com/oDilan1/public-library/main/previews/bla.png",
         "https://raw.githubusercontent.com/oDilan1/public-library/main/previews/s.png",
-        "https://raw.githubusercontent.com/oDilan1/public-library/main/previews/s.png",
-        "https://raw.githubusercontent.com/oDilan1/public-library/main/previews/s.png"
+        "https://raw.githubusercontent.com/oDilan1/public-library/main/previews/bla.png"
       ],
       "downloadUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/schematics/a.schem",
       "fileName": "a.schem",
@@ -30,9 +30,9 @@
       "description": "s",
       "minecraftVersion": "s",
       "category": "s",
-      "previewUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/previews/s.png",
+      "previewUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/previews/bla.png",
       "gallery": [
-        "https://raw.githubusercontent.com/oDilan1/public-library/main/previews/s.png",
+        "https://raw.githubusercontent.com/oDilan1/public-library/main/previews/bla.png",
         "https://raw.githubusercontent.com/oDilan1/public-library/main/previews/s.png",
         "https://raw.githubusercontent.com/oDilan1/public-library/main/previews/s.png"
       ],
