@@ -22,20 +22,20 @@
       "fileType": "schem"
     },
     {
-      "id": "1774220923641",
-      "name": "sz",
-      "author": "s",
-      "description": "s",
-      "minecraftVersion": "s",
-      "category": "s",
-      "previewUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/previews/converted.png",
+      "id": "1774225248529",
+      "name": "🏠Medieval Manor",
+      "author": "oDilan",
+      "description": "A warm medieval house featuring a detailed stone tower, steep orange roof, and cozy wooden framing. The build includes a charming entrance, soft lighting accents, and realistic depth, making it perfect for survival bases, medieval towns, or aesthetic landscapes.",
+      "minecraftVersion": "1.21.1",
+      "category": "Houses",
+      "previewUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/previews/1774225248529/1774225248529_1.png",
       "gallery": [
-        "https://raw.githubusercontent.com/oDilan1/public-library/main/previews/converted.png",
-        "https://raw.githubusercontent.com/oDilan1/public-library/main/previews/s.png"
+        "https://raw.githubusercontent.com/oDilan1/public-library/main/previews/1774225272904/1774225248529_2.png",
+        "https://raw.githubusercontent.com/oDilan1/public-library/main/previews/1774225272904/1774225248529_3.png"
       ],
-      "downloadUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/schematics/s.schem",
-      "fileName": "s.schem",
+      "downloadUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/schematics/1774225248529/medieval-manor.schem",
+      "fileName": "spooky-medieval-manor.schem",
       "fileType": "schem"
-    }
+    },
   ]
 }
