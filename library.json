@@ -15,7 +15,6 @@
       "category": "a",
       "previewUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/previews/s.png",
       "gallery": [
-        "https://raw.githubusercontent.com/oDilan1/public-library/main/previews/bla.png",
         "https://raw.githubusercontent.com/oDilan1/public-library/main/previews/s.png",
         "https://raw.githubusercontent.com/oDilan1/public-library/main/previews/converted.png"
       ],
@@ -33,7 +32,6 @@
       "previewUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/previews/converted.png",
       "gallery": [
         "https://raw.githubusercontent.com/oDilan1/public-library/main/previews/converted.png",
-        "https://raw.githubusercontent.com/oDilan1/public-library/main/previews/s.png",
         "https://raw.githubusercontent.com/oDilan1/public-library/main/previews/s.png"
       ],
       "downloadUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/schematics/s.schem",
