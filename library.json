@@ -8,11 +8,11 @@
   "schematics": [
     {
       "id": "1774225272904",
-      "name": "a",
-      "author": "a",
-      "description": "a",
-      "minecraftVersion": "a",
-      "category": "a",
+      "name": "medieval manor",
+      "author": "oDilan",
+      "description": "a simple medieval manor",
+      "minecraftVersion": "1.21.1",
+      "category": "Houses",
       "previewUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/previews/s.png",
       "gallery": [
         "https://raw.githubusercontent.com/oDilan1/public-library/main/previews/s.png",
