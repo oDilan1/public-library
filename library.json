@@ -15,9 +15,9 @@
       "category": "a",
       "previewUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/previews/s.png",
       "gallery": [
-        "https://raw.githubusercontent.com/oDilan1/public-library/main/previews/a.png",
         "https://raw.githubusercontent.com/oDilan1/public-library/main/previews/s.png",
-        "https://raw.githubusercontent.com/oDilan1/public-library/main/previews/a.png"
+        "https://raw.githubusercontent.com/oDilan1/public-library/main/previews/s.png",
+        "https://raw.githubusercontent.com/oDilan1/public-library/main/previews/s.png"
       ],
       "downloadUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/schematics/a.schem",
       "fileName": "a.schem",
