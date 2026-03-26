@@ -7,6 +7,24 @@
   },
   "schematics": [
     {
+      "id": "4157168746847",
+      "name": "🌲 Fantasy Starter House",
+      "author": "oDilan",
+      "description": "A small cozy fantasy starter house featuring warm wooden tones, a detailed roof, and a charming tower design. The interior includes a compact and functional layout with a rustic medieval feel, making it perfect for early survival bases or decorative village builds.",
+      "minecraftVersion": "1.21.1",
+      "category": "Houses",
+      "previewUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/previews/4157168746847/4157168746847_1.png",
+      "gallery": [
+        "https://raw.githubusercontent.com/oDilan1/public-library/main/previews/4157168746847/4157168746847_2.png",
+        "https://raw.githubusercontent.com/oDilan1/public-library/main/previews/4157168746847/4157168746847_3.png",
+        "https://raw.githubusercontent.com/oDilan1/public-library/main/previews/4157168746847/4157168746847_4.png",
+        "https://raw.githubusercontent.com/oDilan1/public-library/main/previews/4157168746847/4157168746847_5.png"
+      ],
+      "downloadUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/schematics/4157168746847/fantasy_starter_house.schem",
+      "fileName": "fantasy_starter_house.schem",
+      "fileType": "schem"
+    },
+    {
       "id": "1774429836157",
       "name": "🌿 Medieval Twin Tower Gate",
       "author": "oDilan",
