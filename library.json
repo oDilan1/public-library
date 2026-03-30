@@ -7,6 +7,21 @@
   },
   "schematics": [
     {
+      "id": "1488287431626063892",
+      "name": "🏠 Medieval Trader House",
+      "author": "oDilan",
+      "description": "A cozy wooden cottage with a steep roof and warm lighting, perfect for survival starter bases.",
+      "minecraftVersion": "1.21.1",
+      "category": "Houses",
+      "previewUrl": "https://cdn.discordapp.com/attachments/1488287431626063892/1488287431865401344/18788205-image_l.png?ex=69cc3b2e&is=69cae9ae&hm=8ff0dee7c6c7f4327ef0db4eb4e036fd7a81f91fc5f8b96caddeba51d06b61d5&",
+      "gallery": [
+        "https://cdn.discordapp.com/attachments/1488287431626063892/1488287431865401344/18788205-image_l.png?ex=69cc3b2e&is=69cae9ae&hm=8ff0dee7c6c7f4327ef0db4eb4e036fd7a81f91fc5f8b96caddeba51d06b61d5&"
+      ],
+      "downloadUrl": "https://cdn.discordapp.com/attachments/1488287431626063892/1488287432314060950/medieval-trader-house_.schem?ex=69cc3b2e&is=69cae9ae&hm=5193ef9672d5d781ad9e642d5e1cda30146e19ea46ca6fa34ffd7d8b41347f20&",
+      "fileName": "medieval-trader-house.schem",
+      "fileType": "schem"
+    },
+    {
       "id": "4157168415875",
       "name": "Small Watch Tower",
       "author": "Benson",
