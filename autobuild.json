@@ -1,0 +1,159 @@
+{
+  "version": 2,
+  "updatedAt": "2026-03-23T00:21:18.620Z",
+  "author": {
+    "id": "odilan",
+    "name": "oDilan"
+  },
+  "schematics": [
+    {
+      "id": "1488572270627786762",
+      "AutoBuild+": "true",
+      "name": "🏰 Driftwood Castle",
+      "author": "Benson",
+      "description": "A detailed wooden castle with warm tones, stone accents, and a strong medieval feel.",
+      "minecraftVersion": "1.21.1",
+      "category": "Castle / Towers",
+      "previewUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/Builds/1488572270627786762/image_2026-04-06_225509489.png",
+      "gallery": [
+        "https://raw.githubusercontent.com/oDilan1/public-library/main/Builds/1488572270627786762/image_2026-04-06_225513227.png"
+      ],
+      "downloadUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/Builds/1488572270627786762/Driftwood_Castle.schem",
+      "fileName": "Driftwood_Castle.schem",
+      "fileType": "schem"
+    },
+    {
+      "id": "1488287431626063892",
+      "AutoBuild+": "false",
+      "name": "🏠 Medieval Trader House",
+      "author": "oDilan",
+      "description": "A cozy wooden cottage with a steep roof and warm lighting, perfect for survival starter bases.",
+      "minecraftVersion": "1.21.1",
+      "category": "Houses",
+      "previewUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/Builds/1488287431626063892/image_2026-04-06_225916785.png",
+      "gallery": [
+        "https://raw.githubusercontent.com/oDilan1/public-library/main/Builds/1488287431626063892/image_2026-04-06_225916785.png"
+      ],
+      "downloadUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/Builds/1488287431626063892/medieval-trader-house.schem",
+      "fileName": "medieval-trader-house.schem",
+      "fileType": "schem"
+    },
+    {
+      "id": "4157168415875",
+      "AutoBuild+": "true",
+      "name": "Small Watch Tower",
+      "author": "Benson",
+      "description": "A compact medieval guardhouse featuring a sturdy stone base and a striking red roof with a watchtower. Perfect for castle entrances, outposts, or small fortified builds.",
+      "minecraftVersion": "1.21.1",
+      "category": "Castle / Towers",
+      "previewUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/previews/1488196877529776148/1488196877529776148_1.png",
+      "gallery": [
+        "https://raw.githubusercontent.com/oDilan1/public-library/main/previews/1488196877529776148/1488196877529776148_2.png",
+        "https://raw.githubusercontent.com/oDilan1/public-library/main/previews/1488196877529776148/1488196877529776148_3.png"
+      ],
+      "downloadUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/schematics/1488196877529776148/mid_house.schem",
+      "fileName": "Small_Watch_Tower.schem",
+      "fileType": "schem"
+    },
+    {
+      "id": "4157168746847",
+      "AutoBuild+": "true",
+      "name": "🌲 Fantasy Starter House",
+      "author": "oDilan",
+      "description": "A small cozy fantasy starter house featuring warm wooden tones, a detailed roof, and a charming tower design. The interior includes a compact and functional layout with a rustic medieval feel, making it perfect for early survival bases or decorative village builds.",
+      "minecraftVersion": "1.21.1",
+      "category": "Houses",
+      "previewUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/previews/4157168746847/4157168746847_1.png",
+      "gallery": [
+        "https://raw.githubusercontent.com/oDilan1/public-library/main/previews/4157168746847/4157168746847_2.png",
+        "https://raw.githubusercontent.com/oDilan1/public-library/main/previews/4157168746847/4157168746847_3.png",
+        "https://raw.githubusercontent.com/oDilan1/public-library/main/previews/4157168746847/4157168746847_4.png"
+      ],
+      "downloadUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/schematics/4157168746847/fantasy_starter_house.schem",
+      "fileName": "fantasy_starter_house.schem",
+      "fileType": "schem"
+    },
+    {
+      "id": "1774429836157",
+      "AutoBuild+": "false",
+      "name": "🌿 Medieval Twin Tower Gate",
+      "author": "oDilan",
+      "description": "A compact medieval stone gate featuring twin watchtowers connected by a small archway. Covered in vines and detailed with lanterns, it gives a natural, slightly overgrown look. perfect for castle entrances or fortified walls.",
+      "minecraftVersion": "1.21.1",
+      "category": "Castle / Gates",
+      "previewUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/previews/1774429836157/1774429836157_1.png",
+      "gallery": [
+        "https://raw.githubusercontent.com/oDilan1/public-library/main/previews/1774429836157/1774429836157_2.png",
+        "https://raw.githubusercontent.com/oDilan1/public-library/main/previews/1774429836157/1774429836157_3.png"
+      ],
+      "downloadUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/schematics/1774429836157/tower-gate.schem",
+      "fileName": "tower-gate.schem",
+      "fileType": "schem"
+    },
+    {
+      "id": "1774226419027",
+      "AutoBuild+": "false",
+      "name": "🏰 Triple Gable Tudor Townhouse",
+      "author": "oDilan",
+      "description": "A cozy medieval fantasy house featuring warm wooden tones, detailed roofing, and charming lantern accents. Perfect for survival bases or aesthetic village builds.",
+      "minecraftVersion": "1.21.1",
+      "category": "Houses",
+      "previewUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/previews/1774226419027/1774226419027_1.png",
+      "gallery": [
+        "https://raw.githubusercontent.com/oDilan1/public-library/main/previews/1774226419027/1774226419027_1.png"
+      ],
+      "downloadUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/schematics/1774226419027/triple-gable-tudor-townhouse.schem",
+      "fileName": "triple-gable-tudor-townhouse.schem",
+      "fileType": "schem"
+    },
+    {
+      "id": "1774225938741",
+      "AutoBuild+": "false",
+      "name": "🏠 Medieval Fantasy House",
+      "author": "oDilan",
+      "description": "A cozy medieval fantasy house featuring warm wooden tones, detailed roofing, and charming lantern accents. Perfect for survival bases or aesthetic village builds.",
+      "minecraftVersion": "1.21.1",
+      "category": "Houses",
+      "previewUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/previews/1774225938741/1774225938741_1.png",
+      "gallery": [
+        "https://raw.githubusercontent.com/oDilan1/public-library/main/previews/1774225938741/1774225938741_2.png"
+      ],
+      "downloadUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/schematics/1774225938741/fantasy-house.schem",
+      "fileName": "fantasy-house.schem",
+      "fileType": "schem"
+    },
+    {
+      "id": "1774225272904",
+      "AutoBuild+": "true",
+      "name": "👻 Spooky Medieval Manor",
+      "author": "oDilan",
+      "description": "A detailed medieval fantasy house featuring a striking red gabled roof, stone tower, and warm wooden framework. This build combines rustic charm with elegant structure, including a cozy entrance, layered roofing, and realistic depth. Perfect for survival bases, medieval towns, or scenic landscapes.",
+      "minecraftVersion": "1.21.1",
+      "category": "Houses",
+      "previewUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/previews/1774225272904/1774225272904_1.png",
+      "gallery": [
+        "https://raw.githubusercontent.com/oDilan1/public-library/main/previews/1774225272904/1774225272904_2.png"
+      ],
+      "downloadUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/schematics/1774225272904/spooky-medieval-manor.schem",
+      "fileName": "spooky-medieval-manor.schem",
+      "fileType": "schem"
+    },
+    {
+      "id": "1774225248529",
+      "AutoBuild+": "false",
+      "name": "🏠 Medieval Manor",
+      "author": "oDilan",
+      "description": "A warm medieval house featuring a detailed stone tower, steep orange roof, and cozy wooden framing. The build includes a charming entrance, soft lighting accents, and realistic depth, making it perfect for survival bases, medieval towns, or aesthetic landscapes.",
+      "minecraftVersion": "1.21.1",
+      "category": "Houses",
+      "previewUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/previews/1774225248529/1774225248529_1.png",
+      "gallery": [
+        "https://raw.githubusercontent.com/oDilan1/public-library/main/previews/1774225248529/1774225248529_2.png",
+        "https://raw.githubusercontent.com/oDilan1/public-library/main/previews/1774225248529/1774225248529_3.png"
+      ],
+      "downloadUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/schematics/1774225248529/medieval-manor.schem",
+      "fileName": "medieval-manor.schem",
+      "fileType": "schem"
+    }
+  ]
+}
