@@ -7,8 +7,24 @@
   },
   "schematics": [
     {
+      "id": "1494063568306573362",
+      "name": "Medieval House [Full Interior]",
+      "author": "Adavidapa",
+      "description": "A cozy medieval house with warm wood tones, stone details, and a detailed roof design. Perfect for survival worlds or village builds",
+      "minecraftVersion": "1.21.11",
+      "category": "Houses",
+      "previewUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/Builds/1494063568306573362/image_2026-04-15_215715036.png",
+      "gallery": [
+        "https://raw.githubusercontent.com/oDilan1/public-library/main/Builds/1494063568306573362/image_2026-04-15_215724775.png",
+        "https://raw.githubusercontent.com/oDilan1/public-library/main/Builds/1494063568306573362/image_2026-04-15_215731979.png",
+        "https://raw.githubusercontent.com/oDilan1/public-library/main/Builds/1494063568306573362/image_2026-04-15_215737447.png"
+      ],
+      "downloadUrl": "https://raw.githubusercontent.com/oDilan1/public-library/main/Builds/1494063568306573362/housemedieval.schem",
+      "fileName": "housemedieval.schem",
+      "fileType": "schem"
+    },
+    {
       "id": "1488572270627786762",
-      "AutoBuild+": "true",
       "name": "🏰 Driftwood Castle",
       "author": "Benson",
       "description": "A detailed wooden castle with warm tones, stone accents, and a strong medieval feel.",
@@ -24,7 +40,6 @@
     },
     {
       "id": "1488287431626063892",
-      "AutoBuild+": "false",
       "name": "🏠 Medieval Trader House",
       "author": "oDilan",
       "description": "A cozy wooden cottage with a steep roof and warm lighting, perfect for survival starter bases.",
@@ -40,7 +55,6 @@
     },
     {
       "id": "4157168415875",
-      "AutoBuild+": "true",
       "name": "Small Watch Tower",
       "author": "Benson",
       "description": "A compact medieval guardhouse featuring a sturdy stone base and a striking red roof with a watchtower. Perfect for castle entrances, outposts, or small fortified builds.",
@@ -57,7 +71,6 @@
     },
     {
       "id": "4157168746847",
-      "AutoBuild+": "true",
       "name": "🌲 Fantasy Starter House",
       "author": "oDilan",
       "description": "A small cozy fantasy starter house featuring warm wooden tones, a detailed roof, and a charming tower design. The interior includes a compact and functional layout with a rustic medieval feel, making it perfect for early survival bases or decorative village builds.",
@@ -75,7 +88,6 @@
     },
     {
       "id": "1774429836157",
-      "AutoBuild+": "false",
       "name": "🌿 Medieval Twin Tower Gate",
       "author": "oDilan",
       "description": "A compact medieval stone gate featuring twin watchtowers connected by a small archway. Covered in vines and detailed with lanterns, it gives a natural, slightly overgrown look. perfect for castle entrances or fortified walls.",
@@ -92,7 +104,6 @@
     },
     {
       "id": "1774226419027",
-      "AutoBuild+": "false",
       "name": "🏰 Triple Gable Tudor Townhouse",
       "author": "oDilan",
       "description": "A cozy medieval fantasy house featuring warm wooden tones, detailed roofing, and charming lantern accents. Perfect for survival bases or aesthetic village builds.",
@@ -108,7 +119,6 @@
     },
     {
       "id": "1774225938741",
-      "AutoBuild+": "false",
       "name": "🏠 Medieval Fantasy House",
       "author": "oDilan",
       "description": "A cozy medieval fantasy house featuring warm wooden tones, detailed roofing, and charming lantern accents. Perfect for survival bases or aesthetic village builds.",
@@ -124,7 +134,6 @@
     },
     {
       "id": "1774225272904",
-      "AutoBuild+": "true",
       "name": "👻 Spooky Medieval Manor",
       "author": "oDilan",
       "description": "A detailed medieval fantasy house featuring a striking red gabled roof, stone tower, and warm wooden framework. This build combines rustic charm with elegant structure, including a cozy entrance, layered roofing, and realistic depth. Perfect for survival bases, medieval towns, or scenic landscapes.",
@@ -140,7 +149,6 @@
     },
     {
       "id": "1774225248529",
-      "AutoBuild+": "false",
       "name": "🏠 Medieval Manor",
       "author": "oDilan",
       "description": "A warm medieval house featuring a detailed stone tower, steep orange roof, and cozy wooden framing. The build includes a charming entrance, soft lighting accents, and realistic depth, making it perfect for survival bases, medieval towns, or aesthetic landscapes.",
